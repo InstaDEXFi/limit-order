@@ -29,14 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InstaDEX-Finance/limit-trade.git"
+    "url": "git+https://github.com/InstaDEXFi/limit-order.git"
   },
   "author": "InstaDEX Finance",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/InstaDEX-Finance/limit-trade/issues"
+    "url": "https://github.com/InstaDEXFi/limit-order.git/issues"
   },
-  "homepage": "https://github.com/InstaDEX-Finance/limit-trade#readme",
+  "homepage": "https://github.com/InstaDEXFi/limit-order.git#readme",
   "dependencies": {
     "@chainlink/contracts": "^0.2.2",
     "@openzeppelin/contracts": "^3.4.2",
